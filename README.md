@@ -1,9 +1,6 @@
 # utopia.cool
-web settings for utopia.cool
+web settings and policies for utopia.cool
 
-
-<a href="https://www.patreon.com/bePatron?u=42262488" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
-
-
+utopia.cool 网站设置、规则、议会讨论记录仓库。
 
 
