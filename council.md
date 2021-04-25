@@ -1,4 +1,4 @@
-# 《utopia议会机器人工作规则 v1.0》（草案）
+# 《utopia议会机器人工作规则 v1.0》
 
 ## 可见性
 [议会机器人](https://utopia.cool/@council)是用于 utopia 站内讨论的账号。后台每日执行强制关注任务将所有用户刷新为 follower。
