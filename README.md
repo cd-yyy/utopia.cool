@@ -12,5 +12,6 @@ Uptime 监控：[uptime.utopia.cool](https://uptime.utopia.cool/)
 ## 共同治理
 + 议会讨论规则：[《utopia议会机器人工作规则 v1.0》](council.md)
 + 议会讨论记录：[《议会讨论记录》](council_record.md)
-## 机器人
-本站正在使用或曾使用的bot代码见：[bot.utopia.cool仓库](https://github.com/MamaShip/bot.utopia.cool)
+## 代码
++ 网站本体代码见：[MamaShip/mastodon](https://github.com/MamaShip/mastodon)
++ 本站正在使用或曾使用的bot代码见：[bot.utopia.cool仓库](https://github.com/MamaShip/bot.utopia.cool)
